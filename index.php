@@ -1,6 +1,6 @@
 <?php 
 
-# watching test
+# watching test 2
 
 echo "Pi compute : ";
 echo gethostname();
